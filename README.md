@@ -1,3 +1,9 @@
+> [!WARNING]
+> **REPOSITORY MOVED**
+>
+> This repository has been shifted to a new location.
+> Please visit the new URL here: **[https://github.com/killcodeio/killer](https://github.com/killcodeio/killer)**
+
 # Killer - License Verification Binary
 
 Binary protection system that verifies license validity before allowing execution of protected binaries.
